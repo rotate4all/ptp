@@ -194,7 +194,7 @@ address {
 }
 
 .cwin, .nwin, .stats
-{ display: inline-block; background: url('/ptp/assets/images/iconsp.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+{ display: inline-block; background: url('iconsp.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
  
 .cwin { background-position: -1px -0px; width: 14px; height: 14px; vertical-align: middle;}
 .cwin:hover { cursor:pointer;   -webkit-filter: drop-shadow(1px 1px 1px #ffb3b3);
