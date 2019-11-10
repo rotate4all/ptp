@@ -346,13 +346,13 @@ padding-right: 5px;
     transition: all .3s ease-in-out;
 }
 .regwell {
-    background-image: url(register.png); background-repeat: no-repeat; background-position: right top;
+    background-image: url('register.png'); background-repeat: no-repeat; background-position: right top;
 }
 .reswell {
-    background-image: url(recovery.png); background-repeat: no-repeat; background-position: right top;
+    background-image: url('recovery.png'); background-repeat: no-repeat; background-position: right top;
 }
 .conwell {
-    background-image: url(contact.png); background-repeat: no-repeat; background-position: right top;
+    background-image: url('contact.png'); background-repeat: no-repeat; background-position: right top;
 }
 .lbut{
    width: 120px;
