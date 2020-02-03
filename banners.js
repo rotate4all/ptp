@@ -16,11 +16,11 @@ function SetBanners(){
 	banners[11] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/hKNNXJd.gif" /></a>';
 	banners[12] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/0e0M39U.gif" /></a>';
 	banners[13] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/CSTihHg.gif" /></a>';
-	banners[14] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/DcPfU7y.gif" /></a>';
-	banners[15] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/ZmDvYNj.gif" /></a>';
-	banners[16] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/wPvu8JG.gif" /></a>';
-	banners[17] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/gRlkax0.gif" /></a>';
-	banners[18] = '<a href="https://www.stake.com/?c=d326b9ce20" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/2f93SHr.gif" /></a>';
+	banners[14] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
+	banners[15] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
+	banners[16] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
+	banners[17] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
+	banners[18] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="Earn Free Bitcoin NOW!" alt="freebitco.in" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
 	
 	var currentBanner = banners[randNumber];
 
