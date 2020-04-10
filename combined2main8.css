@@ -149,7 +149,7 @@ vertical-align: middle;
 }
 .iair100, .ibtc100, .ipm100, .ipp100, .ipyr100, .irev100, .iskrill100
 { display: inline-block; background: url('newsp40_05.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
-.iair101 { background-position: -1px -0px; width: 40px; height: 40px; }
+.iair100 { background-position: -1px -0px; width: 40px; height: 40px; }
 .ibtc100 { background-position: -42px -0px; width: 40px; height: 40px; }
 .ipm100 { background-position: -1px -41px; width: 40px; height: 40px; }
 .ipp100 { background-position: -42px -41px; width: 40px; height: 40px; }
