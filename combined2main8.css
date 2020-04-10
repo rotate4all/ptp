@@ -14,24 +14,7 @@ body{padding-top:31px; background-color: #ffffff;}.page-header h1{font-size:4em}
     margin-right: 5px;
     min-height: 70px;
 }
-.users:hover {
-  background-color: #5bc0de;
-  color: #ffffff;
-      -moz-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-        transition: all .2s ease-in-out;
-        text-shadow: 0 -1px 1px #222
-}
-.cash:hover {
-  background-color: #85d0a1;
-  color: #ffffff;
-      -moz-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5);
-        transition: all .2s ease-in-out;
-        text-shadow: 0 -1px 1px #222
-}
+
 .menu { padding:20px; margin-top: 30px; width:90%; background-color:#8C8C8C !important; margin: auto;}
 .box { padding: 10px; border: 2px solid #FFFFFF; margin-top: 5px;  }
 .wradius {
@@ -51,27 +34,6 @@ body{padding-top:31px; background-color: #ffffff;}.page-header h1{font-size:4em}
   background-color: inherit;
   border-color: transparent;
 }
-.pulse-button {
-  position: relative;
-  border: none;
-  box-shadow: 0 0 0 0 rgba(240, 65, 36, 0.7);
-  border-radius: 50%;
-  background-size:cover;
-  background-repeat: no-repeat;
-  cursor: pointer;
-  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-  animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-}
-.pulse-button:hover 
-{
-  -webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;
-}
-@-webkit-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(240, 65, 36, 0);}}
-@-moz-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(240, 65, 36, 0);}}
-@-ms-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(240, 65, 36, 0);}}
-@keyframes pulse {to {box-shadow: 0 0 0 20px rgba(240, 65, 36, 0);}}
 
 _:-ms-lang(x), .sbut:nth-of-type(6) { visibility: hidden; }
 
@@ -244,9 +206,6 @@ vertical-align: middle;
 .gi-1x{font-size: 1.5em;}
 .gi-2x{font-size: 2em;}
 .gi-4x{font-size: 4em;}
-
-
-.datagrid table { border-collapse: collapse; text-align: left; width: 100%; } .datagrid {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 2px solid #8C8C8C; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }.datagrid table td, .datagrid table th { padding: 8px 8px}.datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #8C8C8C), color-stop(1, #7D7D7D) );background:-moz-linear-gradient( center top, #8C8C8C 5%, #7D7D7D 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8C8C8C', endColorstr='#7D7D7D');background-color:#8C8C8C; color:#FFFFFF; font-size: 12px; font-weight: bold; border-left: 1px solid #A3A3A3; } .datagrid table tbody td { color: #000000; border-left: 1px solid #DBDBDB;font-size: 12px;font-weight: normal; }.datagrid table tbody td:first-child { border-left: none; }.datagrid table tbody tr:last-child td { border-bottom: none; }
 
 .datagridsm table { border-collapse: collapse; text-align: left; width: 100%; } .datagridsm {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 2px solid #8C8C8C; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }.datagridsm table td, .datagridsm table th { padding: 5px 5px !important;}.datagridsm table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #8C8C8C), color-stop(1, #7D7D7D) );background:-moz-linear-gradient( center top, #8C8C8C 5%, #7D7D7D 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8C8C8C', endColorstr='#7D7D7D');background-color:#8C8C8C; color:#FFFFFF; font-size: 12px; font-weight: bold; border-left: 1px solid #A3A3A3; } .datagridsm table tbody td { color: #000000; border-left: 1px solid #DBDBDB;font-size: 12px;font-weight: normal; }.datagridsm table tbody td:first-child { border-left: none; }.datagridsm table tbody tr:last-child td { border-bottom: none; } .datagridsm table tfoot td { padding: 0; font-size: 12px }
 
