@@ -15,10 +15,10 @@ function SetBanners(){
 	banners[10] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_04/728x90.html" width="728" height="90" frameborder="0"></iframe>';
 	banners[11] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_03/728x90.html" width="728" height="90" frameborder="0"></iframe>';
 	banners[12] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_04/728x90.html" width="728" height="90" frameborder="0"></iframe>';
-	banners[13] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_03/728x90.html" width="728" height="90" frameborder="0"></iframe>';
-	banners[14] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_04/728x90.html" width="728" height="90" frameborder="0"></iframe>';
-	banners[15] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_03/728x90.html" width="728" height="90" frameborder="0"></iframe>';
-	banners[16] = '<iframe src="https://www.rotate4all.com/ptp/promo/changelly/anm_04/728x90.html" width="728" height="90" frameborder="0"></iframe>';
+	banners[13] = '<a href="https://www.paidverts.com/ref/dguy/earners.html" target="_blank"><img title="$10 per click!" alt="freebitco.in" src="https://i.imgur.com/3wxAGE4.gif" /></a>';
+	banners[14] = '<a href="https://www.paidverts.com/ref/dguy/earners.html" target="_blank"><img title="$10 per click!" alt="freebitco.in" src="https://i.imgur.com/3wxAGE4.gif" /></a>';
+	banners[15] = '<a href="https://www.paidverts.com/ref/dguy/earners.html" target="_blank"><img title="$10 per click!" alt="freebitco.in" src="https://i.imgur.com/3wxAGE4.gif" /></a>';
+	banners[16] = '<a href="https://www.paidverts.com/ref/dguy/earners.html" target="_blank"><img title="$10 per click!" alt="freebitco.in" src="https://i.imgur.com/3wxAGE4.gif" /></a>';
 	banners[17] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="EasyHits4U - Site Promotion Made Easy" alt="EasyHits4U" src="https://i.imgur.com/7JZLour.gif" /></a>';
 	banners[18] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="EasyHits4U - Site Promotion Made Easy" alt="EasyHits4U" src="https://i.imgur.com/4JdsC0Q.gif" /></a>';
 	banners[19] = '<a href="https://www.easyhits4u.com/splash/?ref=ryan102383" target="_blank"><img title="EasyHits4U - Site Promotion Made Easy" alt="EasyHits4U" src="https://i.imgur.com/7JZLour.gif" /></a>';
