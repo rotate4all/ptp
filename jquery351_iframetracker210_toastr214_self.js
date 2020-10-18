@@ -61,7 +61,7 @@ toastr.options = {
   'hideMethod': 'fadeOut'
 }  
 
-toastr["info"]('<span id="inlx"><i class="glyphicon glyphicon-cog fixico gly-spin"></i>Validating...</span><div style="float: right;"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "Â© rotate4all.com - Get paid to Promote & Surf", {timeOut: 4000});
+toastr["info"]('<span id="inlx"><i class="glyphicon glyphicon-cog fixico gly-spin"></i>Validating...</span><div style="float: right;"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "© rotate4all.com - Get paid to Promote & Surf", {timeOut: 4000});
 
     $('.iframetrack iframe').iframeTracker({
         blurCallback: function(event) {
@@ -93,8 +93,8 @@ toastr["info"]('<span id="inlx"><i class="glyphicon glyphicon-cog fixico gly-spi
 
 function relayResp(main, sub, pub) {
     if (pub === "") {
-        toastr["error"]('<span id="inlx"><i class="glyphicon glyphicon-remove fixico"></i><span id="amnt">'+main+'</span><span class="ftext">'+sub+'</span></span><div style="float: right"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "Â© rotate4all.com - Get paid to Promote & Surf", {progressBar: false, timeOut: 10000, extendedTimeOut: 2000});
+        toastr["error"]('<span id="inlx"><i class="glyphicon glyphicon-remove fixico"></i><span id="amnt">'+main+'</span><span class="ftext">'+sub+'</span></span><div style="float: right"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "© rotate4all.com - Get paid to Promote & Surf", {progressBar: false, timeOut: 10000, extendedTimeOut: 2000});
     } else {
-        toastr["success"]('<span id="inlx"><i class="glyphicon glyphicon-ok fixico"></i><span id="amnt">'+main+'</span><span class="ftext">'+sub+pub+'</span></span><div style="float: right"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "Â© rotate4all.com - Get paid to Promote & Surf", {progressBar: false, timeOut: 10000, extendedTimeOut: 2000});
+        toastr["success"]('<span id="inlx"><i class="glyphicon glyphicon-ok fixico"></i><span id="amnt">'+main+'</span><span class="ftext">'+sub+pub+'</span></span><div style="float: right"><a class="btn btn-xs btn-success shd" href="https://www.rotate4all.com/advertise/" target="_blank" id="advbtn">Advertisers</a><a class="btn btn-xs btn-primary shd" href="https://www.rotate4all.com/ptp/" target="_blank" id="pubbtn">Publishers</a></div>', "© rotate4all.com - Get paid to Promote & Surf", {progressBar: false, timeOut: 10000, extendedTimeOut: 2000});
     }
 }
