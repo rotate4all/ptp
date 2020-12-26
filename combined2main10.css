@@ -147,32 +147,32 @@ vertical-align: middle;
 .btn-pp:focus { 
   background-color: #253066; color: #FFFFFF;
 }
-.iair100, .ibtc100, .ipm100, .ipp100, .ipyr100, .irev100, .iskrill100
-{ display: inline-block; background: url('newsp40_05.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+.iair100, .ibtc100, .ifp100, .ipm100, .ipyr100, .irev100, .iskrill100
+{ display: inline-block; background: url('newsp40_06.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
 .iair100 { background-position: -1px -0px; width: 40px; height: 40px; }
 .ibtc100 { background-position: -42px -0px; width: 40px; height: 40px; }
-.ipm100 { background-position: -1px -41px; width: 40px; height: 40px; }
-.ipp100 { background-position: -42px -41px; width: 40px; height: 40px; }
+.ifp100 { background-position: -1px -41px; width: 40px; height: 40px; }
+.ipm100 { background-position: -42px -41px; width: 40px; height: 40px; }
 .ipyr100 { background-position: -1px -82px; width: 40px; height: 40px; }
 .irev100 { background-position: -42px -82px; width: 40px; height: 40px; }
 .iskrill100 { background-position: -1px -123px; width: 40px; height: 40px; }
 
-.iair30, .ibtc30, .ipm30, .ipp30, .ipyr30, .irev30, .iskrill30
-{ display: inline-block; background: url('newsp30_05.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+.iair30, .ibtc30, .ifp30, .ipm30, .ipyr30, .irev30, .iskrill30
+{ display: inline-block; background: url('newsp30_06.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
 .iair30 { background-position: -1px -0px; width: 30px; height: 30px; }
 .ibtc30 { background-position: -32px -0px; width: 30px; height: 30px; }
-.ipm30 { background-position: -1px -31px; width: 30px; height: 30px; }
-.ipp30 { background-position: -32px -31px; width: 30px; height: 30px; }
+.ifp30 { background-position: -1px -31px; width: 30px; height: 30px; }
+.ipm30 { background-position: -32px -31px; width: 30px; height: 30px; }
 .ipyr30 { background-position: -1px -62px; width: 30px; height: 30px; }
 .irev30 { background-position: -32px -62px; width: 30px; height: 30px; }
 .iskrill30 { background-position: -1px -93px; width: 30px; height: 30px; }
 
-.iair20, .ibtc20, .ipm20, .ipp20, .ipyr20, .irev20, .iskrill20
+.iair20, .ibtc20, .ifp20, .ipm20, .ipyr20, .irev20, .iskrill20
 { display: inline-block; background: url('newsp20_05.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
 .iair20 { background-position: -1px -0px; width: 20px; height: 20px; }
 .ibtc20 { background-position: -22px -0px; width: 20px; height: 20px; }
-.ipm20 { background-position: -1px -21px; width: 20px; height: 20px; }
-.ipp20 { background-position: -22px -21px; width: 20px; height: 20px; }
+.ifp20 { background-position: -1px -21px; width: 20px; height: 20px; }
+.ipm20 { background-position: -22px -21px; width: 20px; height: 20px; }
 .ipyr20 { background-position: -1px -42px; width: 20px; height: 20px; }
 .irev20 { background-position: -22px -42px; width: 20px; height: 20px; }
 .iskrill20 { background-position: -1px -63px; width: 20px; height: 20px; }
@@ -419,7 +419,7 @@ label[for=airtm]
 {
     border: 1px solid #0586EB;
 }
-label[for=paypal]
+label[for=faucetpay]
 {
     border: 1px solid #233c7f;
 }
